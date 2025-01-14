@@ -26,6 +26,7 @@
 
         <EditText
             android:id="@+id/etQrCodeValue"
+            android:hint="Enter QR Code value"
             android:layout_marginTop="15dp"
             android:layout_marginHorizontal="40dp"
             android:layout_width="match_parent"
